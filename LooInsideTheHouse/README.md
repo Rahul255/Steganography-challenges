@@ -5,7 +5,7 @@
 ## Here data hided inside the house.jpg image. so extracte embbeded data from house.jpg, using this command
 #### steghide extracte -sf house.jpg
 
-## Open flag.txt file
+##   Open flag.txt file
 #### cat flag.txt
 
 ###### FLAG-5jk682aqoepoi582r940oow
